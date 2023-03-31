@@ -1,6 +1,6 @@
 Name:		texlive-seuthesix
 Version:	40088
-Release:	1
+Release:	2
 Summary:	LaTeX class for theses at Southeast University, Nanjing, China
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/seuthesix
