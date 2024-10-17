@@ -3,7 +3,7 @@ Version:	40088
 Release:	2
 Summary:	LaTeX class for theses at Southeast University, Nanjing, China
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/seuthesix
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/seuthesix
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/seuthesix.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/seuthesix.doc.r%{version}.tar.xz
